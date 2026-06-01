@@ -9,4 +9,5 @@ certbot/conf/**
 private_key.json
 backups/
 *.sql
+!db/init.sql
 *.sql.gz
