@@ -1,0 +1,12 @@
+.env
+.secrets/
+node_modules/
+npm-debug.log
+.DS_Store
+certbot/conf/
+certbot/conf/**
+*.pem
+private_key.json
+backups/
+*.sql
+*.sql.gz
